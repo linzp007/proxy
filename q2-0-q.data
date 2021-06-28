@@ -1,0 +1,196 @@
+thread0@thread0-ubuntu:/opt/thread0/gee/repo/earthenterprise/earth_enterprise/src/NATIVE-REL-x86_64/bin$ ./geqtpacketdump --root /home/thread0/桌面/_flatfile-q2-0-q.706
+QtPacket:
+0000:  55 97 78 32 cf 59 00 42 0f 81 a0 fd 17 db d8 2a
+0010:  87 46 03 eb 23 1a 82 9d 28 7a 09 ba e8 20 24 27
+0020:  07 f3 55 3f 48 a8 0d 8a 3b f0 6e 5a de 1d 82 44
+0030:  8a 16 bd b6 39 75 ba 1f f3 db f1 65 49 0d 30 91
+0040:  f6 9d 9b 95 d8 70 aa fe b5 90 98 9a 3e f1 df 7e
+0050:  14 c2 8d 9d 50 fc e0 a3 f1 e0 95 25 89 b6 4a 6f
+0060:  a5 19 33 73 80 85 09 9a 7e de 0b 57 ac 4f c0 58
+0070:  ec f3 88 24 1c ed 24 4c 47 30 ea cf 17 30 66 f3
+0080:  c9 99 09 d9 f5 15 0d 0f 4a e2 c6 5e bb 88 85 57
+0090:  a3 3c 6c 53 85 f5 83 df d5 3a f6 45 38 65 9b 09
+00a0:  94 fa 79 70 0a e4 b6 99 d1 de 57 b0 52 e7 20 8d
+00b0:  84 52 df c8 d5 eb 4d 21 1a 08 24 e9 08 d8 c8 ec
+00c0:  ff 9b 43 3c a1 83 30 a3 13 c9 7b 1c 2b 33 cb 80
+00d0:  f3 4b 2a bf ac 99 99 f9 5f 13 a8 7b 29 a9 16 d5
+00e0:  69 a5 40 d0 20 4c 4f 34 1b 6e f4 0e 37 d4 11 a7
+00f0:  23 2d 21 b0 fc fd ad 09 23 a8 cf a3 db 26 90 0c
+0100:  bb aa 6e 49 84 d8 d7 a0 b4 40 19 2f 73 01 ab 92
+0110:  bc 02 94 db 88 c0 f7 61 61 23 25 08 16 a7 bd e7
+0120:  87 53 bb 8c 8d 23 f1 5d 51 1a 4a 0a 2a 9e aa b6
+0130:  e1 bc df 41 85 9e d0 cd 4a 03 e9 4d c6 da 97 16
+0140:  52 e2 b8 f4 53 5d 0b 2b 45 8a 01 db 46 0d e3 36
+0150:  3e 89 01 f1 b7 23 6f 8c 5a cf 46 e9 93 60 1e cc
+0160:  4c 23 86 bf 2a 7f 3a f4 0c 2c c1 f5 43 d2 0f 9d
+0170:  79 22 ce ab 28 aa 2d 4f 00 88 40 ba d2 87 7e 98
+0180:  35 95 fa 9f b1 14 b9 07 17 93 f4 d9 46 85 04 28
+0190:  7b 3e 60 d4 50 f9 7b 25 9a b5 da ba b1 51 f8 5f
+01a0:  e6 67
+QtPacket decrypted:
+0000:  ad de 68 74 a8 08 00 00 78 9c cd 94 c1 2b 44 41
+0010:  1c c7 7f fb 10 49 6c d2 23 49 9b 90 44 39 48 12
+0020:  da e4 20 29 92 24 49 fe 02 29 57 49 92 a4 3d 3b
+0030:  4b d2 26 c9 c9 49 ec 6e 92 e4 e4 24 49 92 24 97
+0040:  8d 16 47 be 63 3d cd ce f6 be 73 90 32 af cf 7b
+0050:  bd fd fc e6 37 bf 9d 99 37 cd f3 22 01 11 71 40
+0060:  17 08 81 58 be c8 a3 a4 db a0 7a 77 24 a3 cd 69
+0070:  4f 9b 1f 00 47 86 d7 5b 50 12 c4 da 7d ef 2f f3
+0080:  27 45 d5 9f 70 bc a0 5c c9 ac 7f 06 fd e3 4e 7a
+0090:  8e 0a 40 21 f1 45 a0 98 f8 20 28 25 be 0c b8 60
+00a0:  36 90 f6 1f 5a 7d ea a7 0a 50 49 fa 57 81 6a e2
+00b0:  43 a0 86 f8 5a 50 4f 7c 03 68 94 ff b5 fe 7f 9d
+00c0:  5f df 1f 4d a0 45 fc e7 a7 15 b4 11 df 0e 3a 88
+00d0:  ef 04 dd c4 87 41 8f e1 bd fa 72 24 fd 2d f4 93
+00e0:  fe 43 60 98 f8 11 30 4a fc 18 18 27 7e 02 4c 8a
+00f0:  7d 7f 98 fb 3b 8e fa 71 e4 c8 14 98 36 bc 9e 5f
+0100:  e5 9b 27 7e 01 2c 12 bf 04 96 89 5f 01 ab 20 fa
+0110:  5d 67 54 ab 2f 0f cf 08 58 23 ff 7f 1d 6c 90 fc
+0120:  9b 60 8b f4 57 e3 6d 1b e3 eb 7e 07 ec 1a f9 c3
+0130:  5f f5 89 6f b3 79 db f7 ab ef af 3d b0 4f ea 3f
+0140:  00 87 c4 c7 40 82 f8 63 70 22 fe f3 77 0a ce 24
+0150:  7b 7d bc fa ce c1 05 c9 7f 09 ae 88 bf 06 37 c4
+0160:  df 82 3b f1 5f 9f 7b f0 60 f8 b0 f0 f3 a9 cf e2
+0170:  6d e7 d3 9b 5b 52 1e 71 22 8e ba db f0 8b 4d ba
+0180:  9e c9 76 cf ee 8b 9b 72 5f 11 f1 fe 13 e3 5d 66
+0190:  ac 8a 54 99 9e ea fc 63 52 64 2c e6 3e 01 02 04
+01a0:  f6 c2
+
+QtPacket size:418
+  QtPacket info:
+  subnode index (s#)
+  qt path ("[0123]*")
+  imagery version (iv)
+  imagery provider (ip)
+  terrain version (tv)
+  terrain provider (tp)
+  cnode version (c)
+  children (hex and decoded:)
+    I - image bit set
+    T - terrain bit set
+    V - vector (drawable) bit set
+    C - cache node bit set
+    0?1?2?3? children nodes
+  vector layer data
+
+QtPacket (2216 bytes):
+61 nodes
+  node 0  s0 ""  iv = 704, ip = 124, tv = 0, tp = 0, c = 0, flags = 0x4f(I0123)
+  node 1  s1 "0"  iv = 704, ip = 124, tv = 0, tp = 0, c = 0, flags = 0x4f(I0123)
+  node 2  s5 "00"  iv = 703, ip = 0, tv = 0, tp = 0, c = 0, flags = 0x4c(I23)
+  node 3  s23 "002"  iv = 0, ip = 0, tv = 0, tp = 0, c = 706, flags = 0x10(C)
+  node 4  s24 "003"  iv = 0, ip = 0, tv = 0, tp = 0, c = 706, flags = 0x10(C)
+  node 5  s6 "01"  iv = 703, ip = 0, tv = 0, tp = 0, c = 0, flags = 0x44(I2)
+  node 6  s27 "012"  iv = 0, ip = 0, tv = 0, tp = 0, c = 706, flags = 0x10(C)
+  node 7  s7 "02"  iv = 704, ip = 124, tv = 706, tp = 0, c = 0, flags = 0xef(ITV0123)
+    V0: layer = 5878, version = 652
+    V1: layer = 5903, version = 652
+  node 8  s29 "020"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 9  s30 "021"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 10  s31 "022"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 11  s32 "023"  iv = 705, ip = 255, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 12  s8 "03"  iv = 704, ip = 124, tv = 706, tp = 0, c = 0, flags = 0xef(ITV0123)
+    V0: layer = 5903, version = 652
+  node 13  s33 "030"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 14  s34 "031"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 15  s35 "032"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 16  s36 "033"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 17  s2 "1"  iv = 704, ip = 124, tv = 0, tp = 0, c = 0, flags = 0x4f(I0123)
+  node 18  s9 "10"  iv = 703, ip = 0, tv = 0, tp = 0, c = 0, flags = 0x4c(I23)
+  node 19  s39 "102"  iv = 0, ip = 0, tv = 0, tp = 0, c = 706, flags = 0x10(C)
+  node 20  s40 "103"  iv = 0, ip = 0, tv = 0, tp = 0, c = 706, flags = 0x10(C)
+  node 21  s10 "11"  iv = 703, ip = 0, tv = 0, tp = 0, c = 0, flags = 0x4c(I23)
+  node 22  s43 "112"  iv = 0, ip = 0, tv = 0, tp = 0, c = 706, flags = 0x10(C)
+  node 23  s44 "113"  iv = 0, ip = 0, tv = 0, tp = 0, c = 706, flags = 0x10(C)
+  node 24  s11 "12"  iv = 704, ip = 124, tv = 706, tp = 0, c = 0, flags = 0xef(ITV0123)
+    V0: layer = 5878, version = 652
+    V1: layer = 5903, version = 652
+  node 25  s45 "120"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 26  s46 "121"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 27  s47 "122"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 28  s48 "123"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 29  s12 "13"  iv = 704, ip = 124, tv = 706, tp = 0, c = 0, flags = 0xef(ITV0123)
+    V0: layer = 5871, version = 652
+    V1: layer = 5878, version = 652
+    V2: layer = 5903, version = 652
+  node 30  s49 "130"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 31  s50 "131"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 32  s51 "132"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 33  s52 "133"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 34  s3 "2"  iv = 704, ip = 255, tv = 0, tp = 0, c = 0, flags = 0x4f(I0123)
+  node 35  s13 "20"  iv = 705, ip = 255, tv = 706, tp = 0, c = 0, flags = 0xef(ITV0123)
+    V0: layer = 5873, version = 652
+    V1: layer = 5874, version = 652
+    V2: layer = 5876, version = 652
+    V3: layer = 5877, version = 652
+    V4: layer = 5878, version = 652
+    V5: layer = 5879, version = 652
+    V6: layer = 5903, version = 652
+  node 36  s53 "200"  iv = 705, ip = 255, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 37  s54 "201"  iv = 705, ip = 255, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 38  s55 "202"  iv = 705, ip = 255, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 39  s56 "203"  iv = 705, ip = 168, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 40  s14 "21"  iv = 705, ip = 124, tv = 706, tp = 0, c = 0, flags = 0xef(ITV0123)
+    V0: layer = 5874, version = 652
+    V1: layer = 5876, version = 652
+    V2: layer = 5878, version = 652
+    V3: layer = 5903, version = 652
+    V4: layer = 9706, version = 652
+  node 41  s57 "210"  iv = 705, ip = 255, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 42  s58 "211"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 43  s59 "212"  iv = 705, ip = 168, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 44  s60 "213"  iv = 705, ip = 255, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 45  s15 "22"  iv = 705, ip = 0, tv = 0, tp = 0, c = 0, flags = 0x40(I)
+  node 46  s16 "23"  iv = 705, ip = 0, tv = 0, tp = 0, c = 0, flags = 0x40(I)
+  node 47  s4 "3"  iv = 704, ip = 124, tv = 0, tp = 0, c = 0, flags = 0x4f(I0123)
+  node 48  s17 "30"  iv = 704, ip = 124, tv = 706, tp = 0, c = 0, flags = 0xef(ITV0123)
+    V0: layer = 5876, version = 652
+    V1: layer = 5878, version = 652
+    V2: layer = 5903, version = 652
+  node 49  s69 "300"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 50  s70 "301"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 51  s71 "302"  iv = 705, ip = 255, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 52  s72 "303"  iv = 705, ip = 168, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 53  s18 "31"  iv = 704, ip = 124, tv = 706, tp = 0, c = 0, flags = 0xef(ITV0123)
+    V0: layer = 5876, version = 652
+    V1: layer = 5878, version = 652
+    V2: layer = 5903, version = 652
+  node 54  s73 "310"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 55  s74 "311"  iv = 705, ip = 124, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 56  s75 "312"  iv = 705, ip = 168, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 57  s76 "313"  iv = 705, ip = 168, tv = 0, tp = 0, c = 706, flags = 0x70(IVC)
+    V0: layer = 5903, version = 652
+  node 58  s19 "32"  iv = 703, ip = 0, tv = 0, tp = 0, c = 0, flags = 0x40(I)
+  node 59  s20 "33"  iv = 703, ip = 0, tv = 0, tp = 0, c = 0, flags = 0x48(I3)
+  node 60  s84 "333"  iv = 0, ip = 0, tv = 0, tp = 0, c = 706, flags = 0x10(C)
